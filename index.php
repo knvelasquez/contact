@@ -23,7 +23,7 @@
 				<!-- Main -->
 					<section id="main">
 						<header>
-							<span class="avatar"><img src="images/avatar.jpg" width="100px" height="100px" alt="" /></span>
+							<span class="avatar"><img src="images/avatar.JPG" width="100px" height="100px" alt="" /></span>
 							<h1>Kevin Velásquez</h1>
 							<p>Web Developer</p>
 						</header>
